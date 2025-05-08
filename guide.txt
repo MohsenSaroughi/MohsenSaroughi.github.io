@@ -1,0 +1,6 @@
+1- run: gem install bundler jekyll
+2- delete Gemfile.lock file in directory
+3- run: bundle install
+4- run: bundle exec jekyll serve --livereload
+5- run in browser: http://127.0.0.1:4000/
+
