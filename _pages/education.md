@@ -12,40 +12,40 @@ author_profile: true
 {% include gallery caption="Bachelor pictures" %}
 {% endcomment %}
 
-## <span style="color:blue">Master</span>
-* **<span style="color:red">Title</span>**: Master of Water Science and Engineering (Thesis-based)
-* **<span style="color:red">Major Track</span>**: Water Resource Management
-* **<span style="color:red">Major Focus</span>**: Quantity and Quality Groundwater Modelling and Management
-* **<span style="color:red">Master’s Thesis</span>**: Sustainable Groundwater Management Framework in Arid Zones (Case Study: Rafsanjan, Kerman, Iran)
-* **<span style="color:red">Master’s Thesis Grade</span>**: 19.33/20
-* **<span style="color:red">CGPA</span>**: 17.41/20 with 32 credits passed
-* **<span style="color:red">University</span>**: [University of Tehran](https://www.shanghairanking.com/institution/university-of-tehran)
-* **<span style="color:red">College</span>**: College of Agriculture and Natural Resources
-* **<span style="color:red">Faculty</span>**: Faculty of Agricultural Engineering and Technology
-* **<span style="color:red">Department</span>**: Department of Irrigation and Reclamation Engineering
-* **<span style="color:red">Location</span>**: Karaj, Alborz, Iran
-* **<span style="color:red">Date</span>**: September 2018 – September 2021
-* **<span style="color:red">Supervisor</span>**: Professor Majid Kholghi
-* **<span style="color:red">Advisory</span>**: Professor Abdolhossein Hoorfar
+## <span style="color:red">🎓 Master</span>
+* **<span style="color:orange">Title</span>**: Master of Water Science and Engineering (Thesis-based)
+* **<span style="color:orange">Major Track</span>**: Water Resource Management
+* **<span style="color:orange">Major Focus</span>**: Quantity and Quality Groundwater Modelling and Management
+* **<span style="color:orange">Master’s Thesis</span>**: Sustainable Groundwater Management Framework in Arid Zones (Case Study: Rafsanjan, Kerman, Iran)
+* **<span style="color:orange">Master’s Thesis Grade</span>**: 19.33/20
+* **<span style="color:orange">CGPA</span>**: 17.41/20 with 32 credits passed
+* **<span style="color:orange">University</span>**: [University of Tehran](https://www.shanghairanking.com/institution/university-of-tehran)
+* **<span style="color:orange">College</span>**: College of Agriculture and Natural Resources
+* **<span style="color:orange">Faculty</span>**: Faculty of Agricultural Engineering and Technology
+* **<span style="color:orange">Department</span>**: Department of Irrigation and Reclamation Engineering
+* **<span style="color:orange">Location</span>**: Karaj, Alborz, Iran
+* **<span style="color:orange">Date</span>**: September 2018 – September 2021
+* **<span style="color:orange">Supervisor</span>**: Professor Majid Kholghi
+* **<span style="color:orange">Advisory</span>**: Professor Abdolhossein Hoorfar
 
-## <span style="color:blue">Bachelor</span>
-* **<span style="color:red">Title</span>**: Bachelor of Water Science and Engineering (Project-based)
-* **<span style="color:red">Major Track</span>**: Water Resource Management
-* **<span style="color:red">Major Focus</span>**: Design, Optimizing and Operating Dam Reservoir
-* **<span style="color:red">Bachelor’s Project</span>**: 
-* **<span style="color:red">Bachelor’s Project Grade</span>**: 20/20
-* **<span style="color:red">CGPA</span>**: 15.4/20 with 142 credits passed
-* **<span style="color:red">University</span>**: [University of Bu-Ali Sina](https://www.shanghairanking.com/institution/university-of-tehran)
-* **<span style="color:red">College</span>**: College of Engineering
-* **<span style="color:red">Faculty</span>**: Faculty of Agricultural Engineering
-* **<span style="color:red">Department</span>**: Department of Irrigation Engineering
-* **<span style="color:red">Location</span>**: Hamedan, Hamedan, Iran
-* **<span style="color:red">Date</span>**: September 2014 – September 2018
-* **<span style="color:red">Supervisor</span>**: Professor Abdollah Taheri-Tizro
+## <span style="color:red">🎓 Bachelor</span>
+* **<span style="color:orange">Title</span>**: Bachelor of Water Science and Engineering (Project-based)
+* **<span style="color:orange">Major Track</span>**: Water Resource Management
+* **<span style="color:orange">Major Focus</span>**: Design, Optimizing and Operating Dam Reservoir
+* **<span style="color:orange">Bachelor’s Project</span>**: Create Unauthorized Well Database in GIS by Using Earth Explorer  
+* **<span style="color:orange">Bachelor’s Project Grade</span>**: 20/20
+* **<span style="color:orange">CGPA</span>**: 15.4/20 with 142 credits passed
+* **<span style="color:orange">University</span>**: [University of Bu-Ali Sina](https://www.shanghairanking.com/institution/university-of-tehran)
+* **<span style="color:orange">College</span>**: College of Engineering
+* **<span style="color:orange">Faculty</span>**: Faculty of Agricultural Engineering
+* **<span style="color:orange">Department</span>**: Department of Irrigation Engineering
+* **<span style="color:orange">Location</span>**: Hamedan, Hamedan, Iran
+* **<span style="color:orange">Date</span>**: September 2014 – September 2018
+* **<span style="color:orange">Supervisor</span>**: Professor Abdollah Taheri-Tizro
 
 
 <p align="right">
   <h3 align="right">
-    <b><u> Last update: <i>April 26th, 2025 </i></u></b>
+    <b><u> Last update: <i>May, 8th, 2025 </i></u></b>
   </h3>
 </p>

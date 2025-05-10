@@ -14,8 +14,15 @@ author_profile: true
 
 Please, refer to my <a href="https://scholar.google.com/citations?user=tJ8beTgAAAAJ&hl=en">Google Scholar profile</a> or <a href="https://www.researchgate.net/profile/Mohsen-Saroughi">ResearchGate account</a> to find all publications.
 
+{% comment %}
+<iframe 
+src="https://scholar.google.com/citations?user=tJ8beTgAAAAJ&hl=en"
+width="100%" 
+style="height: 97vh;"
+>
+</iframe>
+{% endcomment %}
+
 <p align="right">
-  <h3 align="right">
-    <b><u> Last update: <i>April 26th, 2025 </i></u></b>
-  </h3>
+  <h3 align="right"><b><u> Last update: <i>May 8th, 2025 </i></u></b></h3>
 </p>

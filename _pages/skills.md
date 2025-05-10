@@ -7,43 +7,41 @@ author_profile: true
 
 <style>body {text-align: justify}</style>
 
-## Languages
+## <span style="color:red">Languages</span>
+1. **<span style="color:orange">Kurdish</span>**: Native language
+1. **<span style="color:orange">Persian</span>**: Native language
+1. **<span style="color:orange">English</span>**: Professional
 
-> * **<span style="color:blue">Kurdish</span>**: Native language
-> * **<span style="color:blue">Persian</span>**: Native language
-> * **<span style="color:blue">English</span>**: Professional
+## <span style="color:red">Test Scores</span>
+  * **<span style="color:orange">IELTS</span>**: Not taken yet
+  * **<span style="color:orange">TOEFL</span>**: Not taken yet
+  * **<span style="color:orange">GRE general</span>**: Not taken yet
 
-## Test Scores
-**<span style="color:blue">IELTS</span>**: Not taken yet
-
-**<span style="color:blue">TOEFL</span>**: Not taken yet
-
-**<span style="color:blue">GRE general</span>**: Not taken yet
 
 {% comment %}
 **IELTS**: ?/9 - Reading: ?/9, Listening: ?/9, Speaking: ?/9, Writing: ?/9
 **TOEFL**: ?/120 - Reading: ?/30, Listening: ?/30, Speaking: ?/30, Writing: ?/30
 {% endcomment %}
 
-## Skills
+## <span style="color:red">Skills</span>
 
 | Type | Software |
 |---------------------------------------------------------------|-----------------------------------------------------|
-| **<span style="color:blue">Programming Languages</span>**          | Python, Matlab, FORTRAN, C/C++, JavaScript          |
-| **<span style="color:blue">Libraries</span>**                      | NumPy, Pandas, TensorFlow, Scikit-Learn, Matplotlib |
-| **<span style="color:blue">Operating Systems</span>**              | Windows, Linux                                      |
-| **<span style="color:blue">Reference Management</span>**           | Zotero, EndNote, Mendeley                           |
-| **<span style="color:blue">Miscellaneous</span>**                  | VSCode, Git, LATEX, Vim, Jupyter, Prezi             |
-| **<span style="color:blue">GIS</span>**                            | ArcGIS Products, Quantum GIS, GeoStatistics         |
-| **<span style="color:blue">Remote Sensing</span>**                 | GEE (Google Earth Engine), ENVI                     |
-| **<span style="color:blue">Data & Statistic Analysis</span>**      | HEC-DSSVue, EasyFit, Minitab                        |
-| **<span style="color:blue">Groundwater</span>**                    | GMS, MT3D, MODFLOW, PMWIN                           |
-| **<span style="color:blue">Hydrology</span>**                      | IHACRES, Arc Hydro, HEC-HMS, HEC-GeoHMS, HyfaRun    |
-| **<span style="color:blue">Hydraulic</span>**                      | HEC-RAS                                             |
-| **<span style="color:blue">Water Resource Management</span>**      | WEAP, LINGO                                         |
-| **<span style="color:blue">Water Distribution Network</span>**     | EPANET, WaterGEMS                                   |
-| **<span style="color:blue">System Dynamics</span>**                | Vensim                                              |
-| **<span style="color:blue">Climate Change</span>**                 | LARS-WG, SDSM, ClimGen                              |
+| **<span style="color:orange">Programming Languages</span>**          | Python, Matlab, FORTRAN, C/C++, JavaScript          |
+| **<span style="color:orange">Libraries</span>**                      | NumPy, Pandas, TensorFlow, Scikit-Learn, Matplotlib |
+| **<span style="color:orange">Operating Systems</span>**              | Windows, Linux                                      |
+| **<span style="color:orange">Reference Management</span>**           | Zotero, EndNote, Mendeley                           |
+| **<span style="color:orange">Miscellaneous</span>**                  | VSCode, Git, LATEX, Vim, Jupyter, Prezi             |
+| **<span style="color:orange">GIS</span>**                            | ArcGIS Products, Quantum GIS, GeoStatistics         |
+| **<span style="color:orange">Remote Sensing</span>**                 | GEE (Google Earth Engine), ENVI                     |
+| **<span style="color:orange">Data & Statistic Analysis</span>**      | HEC-DSSVue, EasyFit, Minitab                        |
+| **<span style="color:orange">Groundwater</span>**                    | GMS, MT3D, MODFLOW, PMWIN                           |
+| **<span style="color:orange">Hydrology</span>**                      | IHACRES, Arc Hydro, HEC-HMS, HEC-GeoHMS, HyfaRun    |
+| **<span style="color:orange">Hydraulic</span>**                      | HEC-RAS                                             |
+| **<span style="color:orange">Water Resource Management</span>**      | WEAP, LINGO                                         |
+| **<span style="color:orange">Water Distribution Network</span>**     | EPANET, WaterGEMS                                   |
+| **<span style="color:orange">System Dynamics</span>**                | Vensim                                              |
+| **<span style="color:orange">Climate Change</span>**                 | LARS-WG, SDSM, ClimGen                              |
 
 {% comment %}
 <div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 0 15px;">
@@ -56,12 +54,6 @@ author_profile: true
 </div>
 {% endcomment %}
 
-
-
-
-
-
-
-
-
-
+<p align="right">
+  <h3 align="right"><b><u> Last update: <i>May 8th, 2025 </i></u></b></h3>
+</p>

@@ -5,45 +5,44 @@ main:
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  
+
   # - title: "Sample Posts"
   #   url: /year-archive/
-  
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  
+
   # - title: "Sitemap"
   #   url: /sitemap/
 
-    # done
   - title: "Home"
-    url: /about.html/
-    # done
+    url: /home/
+
   - title: "Education"
     url: /education/
-    # done
+
   - title: "Publications"
     url: /publications/
 
   - title: "Teach, Research & Work Experience"
     url: /teach_research_work/
-    # done
+
   - title: "Projects"
     url: /projects/
-    # done
-  # - title: "CV"
+
+  - title: "Honors and Awards"
+    url: /honors_and_awards/
+
+  - title: "Skills"
+    url: /skills/
+
+   # - title: "CV"
   #   url: /cv/
 
   # - title: "Courses"
   #   url: /selected_courses/
-    # done
-  - title: "Honors and Awards"
-    url: /honors_and_awards/
-    # done
-  - title: "Skills"
-    url: /skills/
 
-  # - title: "Research"
+ # - title: "Research"
   #   url: /research/
 
   # - title: "Talks"
@@ -65,7 +64,7 @@ main:
   #   url: /industry/
 
   # - title: "Contact"
-  #   url: /contact/ 
+  #   url: /contact/
 
   # - title: "News"
   #   url: /news/
