@@ -88,13 +88,13 @@ Saroughi's research interests primarily focus on below table and he has been act
 | Applications of Optimization                              |                       |
 
 ## <span style="color:red">Publications</span>
-Saroughi has published ***<span style="color:DarkKhaki">several academic papers</span>*** in ***<span style="color:DarkKhaki">some high-level (Q1 and Q2) journal</span>*** which can accessible for visiting on **[google scholar page](https://scholar.google.com/citations?user=tJ8beTgAAAAJ&hl=en)** or **[publications section](/publications/)**
+Saroughi has published ***<span style="color:DarkKhaki">several academic papers</span>*** in ***<span style="color:DarkKhaki">some high-level (Q1 and Q2) journal</span>*** which can accessible for visiting on [google scholar page](https://scholar.google.com/citations?user=tJ8beTgAAAAJ&hl=en) or [publications section](/publications/)
 
 ## <span style="color:red">Honors and Awards</span>
-Saroughi accomplishments include outstanding results in ***<span style="color:GoldenRod">competitive examinations</span>*** which can be accessible in **[Honors and Awards](/honors_and_awards/)** section. These honors reflect his ***<span style="color:GoldenRod">strong analytical ability</span>*** and ***<span style="color:GoldenRod">academic excellence</span>***.
+Saroughi accomplishments include outstanding results in ***<span style="color:GoldenRod">competitive examinations</span>*** which can be accessible in [Honors and Awards](/honors_and_awards/) section. These honors reflect his ***<span style="color:GoldenRod">strong analytical ability</span>*** and ***<span style="color:GoldenRod">academic excellence</span>***.
 
 ## <span style="color:red">Technical Skills</span>
-Saroughi is ***<span style="color:DarkSeaGreen">proficient in computational and analytical tools</span>*** relevant to water engineering. He has experience with ***<span style="color:HotPink">programming and data analysis (e.g. Python, MATLAB)</span>***, ***<span style="color:DeepSkyBlue">geospatial and remote-sensing tools (e.g. ArcGIS/QGIS)</span>***, and ***<span style="color:DarkSalmon">machine learning libraries/frameworks.</span>*** He applies these tools for ***<span style="color:Gold">statistical modeling, numerical simulation, and optimization in hydrologic research.</span>*** Please, refer to **[skills](/skills/)** section for visiting a complete list of tools and software. 
+Saroughi is ***<span style="color:DarkSeaGreen">proficient in computational and analytical tools</span>*** relevant to water engineering. He has experience with ***<span style="color:HotPink">programming and data analysis (e.g. Python, MATLAB)</span>***, ***<span style="color:DeepSkyBlue">geospatial and remote-sensing tools (e.g. ArcGIS/QGIS)</span>***, and ***<span style="color:DarkSalmon">machine learning libraries/frameworks.</span>*** He applies these tools for ***<span style="color:Gold">statistical modeling, numerical simulation, and optimization in hydrologic research.</span>*** Please, refer to [skills](/skills/) section for visiting a complete list of tools and software. 
 
 ---
 # Links to Each Section of the Site
