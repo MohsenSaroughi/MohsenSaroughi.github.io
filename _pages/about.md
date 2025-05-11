@@ -62,22 +62,22 @@ redirect_from:
 
 <style>body {text-align: justify}</style>
 
-## <span style="color:red">about me</span>
-I, <span style="color:orange">***Mohsen Saroughi***</span>, was born on <span style="color:orange">***July 14th, 1996***</span> in <span style="color:orange">***Sannandaj***</span> and hold <span style="color:orange">***Iran***</span> nationality. I completed my secondary education in <span style="color:orange">***Mathematics-Physics major***</span> at <span style="color:orange">***Soleiman Khater High School, Sannandaj, Iran***</span>, graduating in <span style="color:orange">***September, 2014***</span>. Subsequently, I pursued my undergraduate studies in <span style="color:orange">***Water Science and Engineering***</span> at <span style="color:orange">***Bu-Ali Sina University, Hamedan, Iran***</span>, earning my bachelor's degree in <span style="color:orange">***September, 2018***</span>. Following this, I continued my education by obtaining a master's degree in <span style="color:orange">***Water Science and Engineering - Water Resources Management (Specialize in Groundwater Management)***</span> from <span style="color:orange">***University of Tehran***</span> in <span style="color:orange">***September, 2021***</span>. 
+## <span style="color:red">About me</span>
+***<span style="color:orange">Mohsen Saroughi</span>*** (was born ***<span style="color:orange">July 14, 1996</span>***, in ***<span style="color:orange">Sanandaj, Kurdestan, Iran</span>***) is an Iranian researcher specializing in the field of ***<span style="color:orange">Water Science and Engineering - water resources management and groundwater</span>***. Saroughi completed his secondary education in ***<span style="color:YellowGreen">Mathematics-Physics</span>*** major at ***<span style="color:YellowGreen">Soleiman Khater</span>*** High School, ***<span style="color:YellowGreen">Sanandaj, Iran</span>***, graduating in ***<span style="color:YellowGreen">September, 2014</span>***. He earned his ***<span style="color:Tomato">B.Sc.</span>*** in ***<span style="color:Tomato">Water Science and Engineering</span>*** from ***<span style="color:Tomato">Bu-Ali Sina University (2014–2018)</span>*** and ***<span style="color:LawnGreen">M.Sc.</span>*** in ***<span style="color:LawnGreen">Water Resource Management (specializing in groundwater management)</span>*** from the ***<span style="color:LawnGreen">University of Tehran (2018–2021)</span>***. His master’s thesis, titled ***<span style="color:HotPink">"Sustainable Groundwater Management Framework in Arid Zones (Case Study: Rafsanjan, Kerman, Iran)"</span>*** was supervised by ***<span style="color:HotPink">Prof. Majid Kholghi</span>*** and advised by ***<span style="color:HotPink">Prof. Abdolhossein Hoorfar</span>***. His graduate work focused on ***<span style="color:HotPink">groundwater modeling and management methods</span>***.
 
-For my master's studies, I completed a thesis entitled <span style="color:orange">***"Sustainable Groundwater Management Framework in Arid Zones (Case Study: Rafsanjan, Kerman, Iran)"***</span> under the supervision of <span style="color:orange">***Prof. Majid Kholghi***</span> and advisory of <span style="color:orange">***Prof. Abdolhossein Hoorfar***</span>.
+Saroughi has ***<span style="color:Fuchsia">collaborated</span>*** with ***<span style="color:Fuchsia">both national and international</span>*** partners. He co-authored research with colleagues at University of Tehran and with international experts on cross-country groundwater modeling projects. These collaborations have spanned topics like ***<span style="color:DeepPink">hybrid modeling of AI models for prediction of groundwater levels, runoff, evaporation</span>*** and ***<span style="color:DeepPink">comparative studies of algorithm performance</span>***.
 
 ## <span style="color:red">Highlights</span>
-* Reviewer some M.Sc. and Ph.D. thesis
-* Thesis coordinator for 5 M.Sc thesis
-* Be chosen as researching and teaching assistant by two professors
-* Be recommended as expert for IT and computer working by IRAN WRMC and some high-tech company
-* Have great intelligence, extraordinary perseverance and being always among the best ones in any situation
+* ***<span style="color:Coral">Reviewer</span>*** some M.Sc. and Ph.D. thesis
+* ***<span style="color:Coral">Thesis coordinator</span>*** of 5 M.Sc thesis
+* Be chosen as ***<span style="color:Coral">researching and teaching assistant</span>*** by two professors
+* Be ***<span style="color:Coral">recommended as expert</span>*** for IT and computer working by IRAN WRMC and some high-tech company
+* Being always among ***<span style="color:Coral">the best ones</span>*** in any situation
 
 ## <span style="color:red">Research Interests</span>
-My research interests primarily focus on below table and I have been actively engaged in research projects within these areas.
+Saroughi's research interests primarily focus on below table and he has been actively engaged in research projects within these areas.
 
-| <span style="color:orange">Research Interests (RA)</span> | <span style="color:orange">Research Interests (RA)</span> |
+| <span style="color:orange">Research Interests (RI)</span> | <span style="color:orange">Research Interests (RI)</span> |
 |-----------------------------------------------------------|-----------------------|
 | Groundwater Management & Modeling (Quantity & Quality)    | Climate Change        |
 | Machine & Deep Learning, Evolutionary Algorithms          | Uncertainty Analysis  |
@@ -88,10 +88,13 @@ My research interests primarily focus on below table and I have been actively en
 | Applications of Optimization                              |                       |
 
 ## <span style="color:red">Publications</span>
-I have published several academic papers in some high-level (Q1 and Q2) journal which can accessible for visiting on my [google scholar page](https://scholar.google.com/citations?user=tJ8beTgAAAAJ&hl=en) or [publications section of this website](/publications/)
+Saroughi has published ***<span style="color:DarkKhaki">several academic papers</span>*** in ***<span style="color:DarkKhaki">some high-level (Q1 and Q2) journal</span>*** which can accessible for visiting on **[google scholar page](https://scholar.google.com/citations?user=tJ8beTgAAAAJ&hl=en)** or **[publications section](/publications/)**
 
-<!-- I am proficient in some specialized software tools which can visible [here](/honors_and_extra/), and possess language skills in Kurdish (native), Persian (native), and English (Professional). In my personal life, I enjoy personal interests such as programming, reading, and swimming, which help me maintain a healthy work-life balance. -->
-<!-- Throughout my academic and professional career, I have held positions such as (Job Title/Position) at (Place of Employment) from (Start Date) to (End Date), during which I contributed to various projects and gained valuable experience. Additionally, I am an active member of professional organizations such as (Name of Organization/Association). -->
+## <span style="color:red">Honors and Awards</span>
+Saroughi accomplishments include outstanding results in ***<span style="color:GoldenRod">competitive examinations</span>*** which can be accessible in **[Honors and Awards](/honors_and_awards/)** section. These honors reflect his ***<span style="color:GoldenRod">strong analytical ability</span>*** and ***<span style="color:GoldenRod">academic excellence</span>***.
+
+## <span style="color:red">Technical Skills</span>
+Saroughi is ***<span style="color:DarkSeaGreen">proficient in computational and analytical tools</span>*** relevant to water engineering. He has experience with ***<span style="color:HotPink">programming and data analysis (e.g. Python, MATLAB)</span>***, ***<span style="color:DeepSkyBlue">geospatial and remote-sensing tools (e.g. ArcGIS/QGIS)</span>***, and ***<span style="color:DarkSalmon">machine learning libraries/frameworks.</span>*** He applies these tools for ***<span style="color:Gold">statistical modeling, numerical simulation, and optimization in hydrologic research.</span>*** Please, refer to **[skills](/skills/)** section for visiting a complete list of tools and software. 
 
 ---
 # Links to Each Section of the Site
