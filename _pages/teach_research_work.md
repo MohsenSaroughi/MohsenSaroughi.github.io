@@ -98,7 +98,7 @@ There are 3 different categories experiences including: [Teach](#teach), [Resear
        * <span style="color:white">GIS well database was modified and improve</span>
        * <span style="color:white">Nearly 9000 unauthorized wells was found by using RS and Earth Explorer</span>
     > * **<span style="color:orange">Date</span>**: <span style="color:white">Jul 2018 – Oct 2018</span>
-    > * **<span style="color:orange">Location</span>**: <span style="color:white">Sanandaj, Kurdestan, Iran</span>
+    > * **<span style="color:orange">Location</span>**: <span style="color:white">Sananndaj, Kurdestan, Iran</span>
     > * **<span style="color:orange">Language of Instruction</span>**: <span style="color:white">Persian</span>
     > * **<span style="color:orange">Number of checked well</span>**: <span style="color:white">~11000</span>
 
