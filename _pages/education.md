@@ -12,6 +12,8 @@ author_profile: true
 {% include gallery caption="Bachelor pictures" %}
 {% endcomment %}
 
+This page provides a comprehensive overview of academic qualifications and educational background, organized into detailed sections:
+
 ## <span style="color:red">🎓 Master</span>
 * **<span style="color:orange">Title</span>**: Master of Water Science and Engineering (Thesis-based)
 * **<span style="color:orange">Major Track</span>**: Water Resource Management

@@ -6,6 +6,8 @@ author_profile: true
 ---
 <style>body {text-align: justify}</style>
 
+This page highlights Saroughi's notable honors, awards, and recognitions, celebrating excellence across academic, professional, and personal endeavors.
+
 ## Honors and Awards
 
 * **Ranked 1% in Official Judicial Experts Water Exam Iran (Jan 2024 - National Exam)**

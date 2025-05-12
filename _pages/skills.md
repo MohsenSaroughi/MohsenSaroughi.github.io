@@ -7,6 +7,8 @@ author_profile: true
 
 <style>body {text-align: justify}</style>
 
+This page showcases a comprehensive overview of Saroughi's core competencies and skill sets. The skills are systematically categorized into key domains, as follows:
+
 ## <span style="color:red">Languages</span>
 1. **<span style="color:orange">Kurdish</span>**: Native language
 1. **<span style="color:orange">Persian</span>**: Native language
@@ -16,7 +18,6 @@ author_profile: true
   * **<span style="color:orange">IELTS</span>**: Not taken yet
   * **<span style="color:orange">TOEFL</span>**: Not taken yet
   * **<span style="color:orange">GRE general</span>**: Not taken yet
-
 
 {% comment %}
 **IELTS**: ?/9 - Reading: ?/9, Listening: ?/9, Speaking: ?/9, Writing: ?/9

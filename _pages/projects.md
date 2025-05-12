@@ -6,6 +6,7 @@ author_profile: true
 ---
 <style>body {text-align: justify}</style>
 
+This page contains a complete list of all projects completed by Saroughi which organized chronologically by completion date. The portfolio encompasses diverse project types, including: 1. Professional Work 2. Academic Research 3. Personal Initiatives 4. Team-based Endeavors
 
 # <span style="color:red">Projects</span>
 
