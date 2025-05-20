@@ -27,7 +27,7 @@ This page showcases a comprehensive overview of Saroughi's core competencies and
 ## <span style="color:red">Skills</span>
 
 | Type | Software |
-|---------------------------------------------------------------|-----------------------------------------------------|
+|----------------------------------------------------------------------|-----------------------------------------------------|
 | **<span style="color:orange">Programming Languages</span>**          | Python, Matlab, FORTRAN, C/C++, JavaScript          |
 | **<span style="color:orange">Libraries</span>**                      | NumPy, Pandas, TensorFlow, Scikit-Learn, Matplotlib |
 | **<span style="color:orange">Operating Systems</span>**              | Windows, Linux                                      |

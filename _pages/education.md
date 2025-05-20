@@ -34,11 +34,10 @@ This page provides a comprehensive overview of academic qualifications and educa
 * **<span style="color:orange">Title</span>**: Bachelor of Water Science and Engineering (Project-based)
 * **<span style="color:orange">Major Track</span>**: Water Resource Management
 * **<span style="color:orange">Major Focus</span>**: Design, Optimizing and Operating Dam Reservoir
-* **<span style="color:orange">Bachelor’s Project</span>**: Create Unauthorized Well Database in GIS by Using Earth Explorer  
+* **<span style="color:orange">Bachelor’s Project</span>**: Create Unauthorized Well Database in GIS by Using Earth Explorer
 * **<span style="color:orange">Bachelor’s Project Grade</span>**: 20/20
 * **<span style="color:orange">CGPA</span>**: 15.4/20 with 142 credits passed
 * **<span style="color:orange">University</span>**: [University of Bu-Ali Sina](https://www.shanghairanking.com/institution/university-of-tehran)
-* **<span style="color:orange">College</span>**: College of Engineering
 * **<span style="color:orange">Faculty</span>**: Faculty of Agricultural Engineering
 * **<span style="color:orange">Department</span>**: Department of Irrigation Engineering
 * **<span style="color:orange">Location</span>**: Hamedan, Hamedan, Iran

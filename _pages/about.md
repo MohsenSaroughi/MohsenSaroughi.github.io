@@ -14,7 +14,7 @@ redirect_from:
   <style>
     .cta-button {
   padding: 12px 24px;
-  border-radius: 4px; 
+  border-radius: 4px;
   background-color: #00adb5;
   /* color: white; */
   color: #fff;
@@ -25,9 +25,9 @@ redirect_from:
   max-width: 100%;
   text-align: center;
   margin: 5px 0;
-  padding: 8px 12px; 
+  padding: 8px 12px;
   margin-right: 10px;
-  margin-bottom: 10px; 
+  margin-bottom: 10px;
    text-decoration: none;
 }
 
@@ -51,7 +51,7 @@ redirect_from:
 
 .button-container {
   display: flex;
-  flex-wrap: wrap; 
+  flex-wrap: wrap;
   max-width: 1200px;
   margin: 0 auto;
   <!-- justify-content: space-between; -->
@@ -94,7 +94,7 @@ Saroughi has published ***<span style="color:DarkKhaki">several academic papers<
 Saroughi accomplishments include outstanding results in ***<span style="color:GoldenRod">competitive examinations</span>*** which can be accessible in [Honors and Awards](/honors_and_awards/) section. These honors reflect his ***<span style="color:GoldenRod">strong analytical ability</span>*** and ***<span style="color:GoldenRod">academic excellence</span>***.
 
 ## <span style="color:red">Technical Skills</span>
-Saroughi is ***<span style="color:DarkSeaGreen">proficient in computational and analytical tools</span>*** relevant to water engineering. He has experience with ***<span style="color:HotPink">programming and data analysis (e.g. Python, MATLAB)</span>***, ***<span style="color:DeepSkyBlue">geospatial and remote-sensing tools (e.g. ArcGIS/QGIS)</span>***, and ***<span style="color:DarkSalmon">machine learning libraries/frameworks.</span>*** He applies these tools for ***<span style="color:Gold">statistical modeling, numerical simulation, and optimization in hydrologic research.</span>*** Please, refer to [skills](/skills/) section for visiting a complete list of tools and software. 
+Saroughi is ***<span style="color:DarkSeaGreen">proficient in computational and analytical tools</span>*** relevant to water engineering. He has experience with ***<span style="color:HotPink">programming and data analysis (e.g. Python, MATLAB)</span>***, ***<span style="color:DeepSkyBlue">geospatial and remote-sensing tools (e.g. ArcGIS/QGIS)</span>***, and ***<span style="color:DarkSalmon">machine learning libraries/frameworks.</span>*** He applies these tools for ***<span style="color:Gold">statistical modeling, numerical simulation, and optimization in hydrologic research.</span>*** Please, refer to [skills](/skills/) section for visiting a complete list of tools and software.
 
 ---
 # Links to Each Section of the Site
@@ -113,7 +113,7 @@ Saroughi is ***<span style="color:DarkSeaGreen">proficient in computational and 
   <!-- <a class="cta-button" href="/biography/">Biography</a> -->
   <!-- <a class="cta-button" href="/gallery/">Images and Gallery</a> -->
   <!-- <a class="cta-button" href="/news/">News</a> -->
-  <!-- <a class="cta-button" href="/contact/">Contact</a> --> 
+  <!-- <a class="cta-button" href="/contact/">Contact</a> -->
 </div>
 
 <p align="right">

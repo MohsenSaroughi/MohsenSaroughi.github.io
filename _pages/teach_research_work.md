@@ -12,7 +12,7 @@ author_profile: true
 {% include gallery caption="Bachelor pictures" %}
 {% endcomment %}
 
-There are 3 different categories experiences including: [Teach](#teach), [Research](#research), & [Work](#work), which any types is ordered by chronology as follow:   
+There are 3 different categories experiences including: [Teach](#teach), [Research](#research), & [Work](#work), which any types is ordered by chronology as follow:
 
 # <span style="color:red">Teach</span>
 ---
@@ -88,7 +88,7 @@ There are 3 different categories experiences including: [Teach](#teach), [Resear
     > * **<span style="color:orange">Outcome</span>**: <span style="color:white">This journal was become a fame and professional journal during six months</span>
     > * **<span style="color:orange">Date</span>**: <span style="color:white">Fall 2019 – Fall 2020</span>
     > * **<span style="color:orange">Location</span>**: <span style="color:white">Karaj, Alborz, Iran</span>
-    > * **<span style="color:orange">Language of Instruction</span>**: <span style="color:white">Persian</span>
+    > * **<span style="color:orange">Language</span>**: <span style="color:white">Persian</span>
     > * **<span style="color:orange">Number of checked Papers</span>**: <span style="color:white">~45</span>
 1. #### Bachelor's Intern at [Regional Water Company of Kurdistan](https://www.kdrw.ir/)
     > * **<span style="color:orange">University</span>**: <span style="color:white">University of Bu-Ali Sina</span>
@@ -99,7 +99,7 @@ There are 3 different categories experiences including: [Teach](#teach), [Resear
        * <span style="color:white">Nearly 9000 unauthorized wells was found by using RS and Earth Explorer</span>
     > * **<span style="color:orange">Date</span>**: <span style="color:white">Jul 2018 – Oct 2018</span>
     > * **<span style="color:orange">Location</span>**: <span style="color:white">Sananndaj, Kurdestan, Iran</span>
-    > * **<span style="color:orange">Language of Instruction</span>**: <span style="color:white">Persian</span>
+    > * **<span style="color:orange">Language</span>**: <span style="color:white">Persian</span>
     > * **<span style="color:orange">Number of checked well</span>**: <span style="color:white">~11000</span>
 
 <p align="right">

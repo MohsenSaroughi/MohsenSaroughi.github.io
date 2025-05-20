@@ -365,7 +365,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
     # _education
   - scope:
       path: ""
@@ -375,7 +374,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-
   # _extracurricular
   - scope:
       path: ""
@@ -385,7 +383,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-
     # _industry
   - scope:
       path: ""
