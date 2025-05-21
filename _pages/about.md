@@ -75,7 +75,7 @@ Saroughi has ***<span style="color:Fuchsia">collaborated</span>*** with ***<span
 * Being always among ***<span style="color:Coral">the best ones</span>*** in any situation
 
 ## <span style="color:red">Research Interests</span>
-Saroughi's research interests primarily focus on below table and he has been actively engaged in research projects within these areas.
+For master thesis, Saroughi was focused on new approach to manage both quality and quantity of groundwater in arid zone, which was done by groundwater modelling with finite difference method. Recently, he focuses on comprehensive and confirmatory research and new issues e.g., use of computational intelligence methods, prediction of groundwater level and hydrology parameter, optimal operation rule, etc. Saroughi's research interests primarily focus on below table and he has been actively engaged in research projects within these areas.
 
 | <span style="color:orange">Research Interests (RI)</span> | <span style="color:orange">Research Interests (RI)</span> |
 |-----------------------------------------------------------|-----------------------|
