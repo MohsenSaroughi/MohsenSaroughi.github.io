@@ -20,7 +20,7 @@ title: "Mohsen Saroughi"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Mohsen Saroughi"
-description: ""
+description: "Official personal website of Mohsen Saroughi – Researcher in Water Resources Management"
 url: https://MohsenSaroughi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "MohsenSaroughi/MohsenSaroughi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
