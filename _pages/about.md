@@ -120,3 +120,6 @@ Saroughi is ***<span style="color:DarkSeaGreen">proficient in computational and 
   <h3 align="right"><b><u> Last update: <i>May 8th, 2025 </i></u></b></h3>
 </p>
 
+<p class="last-modified">
+  Last updated on {{ page.last_modified_at | date: "%B %d, %Y" }}
+</p>
